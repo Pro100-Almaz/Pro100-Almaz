@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am from KZ
 - 📫 I have a bachelor's degree from Nazarbayev University (Inw)  
-- 🌱 I enjoy developing 3d interactive stuff
+- 🌱 I enjoy developing 
 
 
 ### Current stack:
