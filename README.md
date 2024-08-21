@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### I'm a Python and Fullstack Developer!!!
 
 - 🔭 I am from KZ
-- 📫 I have a bachelor's degree from Nazarbayev University (Inw)  
+- 📫 I have a bachelor's degree from Nazarbayev University
 - 🌱 I enjoy developing 
 
 
